@@ -31,13 +31,14 @@ Berikan penjelasan dan contohnya! ``( <p id="paragraf-1" class="text-paragraf"> 
     ``#intro h1 {...}`` hanya memberikan sebuah style atau elemen yang ada dalam cakupan intro itu sendiri.
 3. Inline CSS > Internal CSS  > dan eksternal CSS itu yang paling rendah 
 
-ini adalah contoh Inline yang paling tinggi
+    ini adalah contoh Inline yang paling tinggi
 
-![img](SS/SS7.png)
+    ![img](SS/SS7.png)
 
-dan ini yang terendah
+    dan ini yang terendah
 
-![img](SS/SS8.png)
+    ![img](SS/SS8.png)
+
 4. untuk yang nomer 4 ini akan mesnyusul.....
 
 ## Sekian dan Terimakasih 🙏
