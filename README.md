@@ -31,11 +31,11 @@ Berikan penjelasan dan contohnya! ``( <p id="paragraf-1" class="text-paragraf"> 
     ``#intro h1 {...}`` hanya memberikan sebuah style atau elemen yang ada dalam cakupan intro itu sendiri.
 3. Deklarasi css internal, itu yg di dalam file html tag ``<style>``
 
-    Eksternal, yg di file format css 
+    Eksternal, yg di file format css: 
 
     ![img](SS/SS7.png)
 
-    Inline, cssnya ada di  dalam tag
+    Inline, cssnya ada di  dalam tag:
 
     ![img](SS/SS8.png)
 
@@ -43,4 +43,4 @@ Berikan penjelasan dan contohnya! ``( <p id="paragraf-1" class="text-paragraf"> 
 
 
 
-## Sekian dan Terimakasih 🙏
+## Sekian dan Terimakasih 🙏, mohon maaf bila banyak kekurangan.
