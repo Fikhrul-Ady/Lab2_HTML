@@ -29,16 +29,18 @@ Berikan penjelasan dan contohnya! ``( <p id="paragraf-1" class="text-paragraf"> 
 2.  ``h1 {...}``itu memberikan sebuah elemen atau style secara menyeluruh.
     
     ``#intro h1 {...}`` hanya memberikan sebuah style atau elemen yang ada dalam cakupan intro itu sendiri.
-3. Inline CSS > Internal CSS  > dan eksternal CSS itu yang paling rendah 
+3. Deklarasi css internal, itu yg di dalam file html tag ``<style>``
 
-    ini adalah contoh Inline yang paling tinggi
+    Eksternal, yg di file format css 
 
     ![img](SS/SS7.png)
 
-    dan ini yang terendah
+    Inline, cssnya ada di  dalam tag
 
     ![img](SS/SS8.png)
 
-4. untuk yang nomer 4 ini akan mesnyusul.....
+4. Selector class adalah kebalikan dari ID, jika ID hanya dipakai sekalai dalam setiap halaman, CLASS merupakan selector yang dapat digunakan / dipanggil secara berulang-ulang.
+
+
 
 ## Sekian dan Terimakasih 🙏
