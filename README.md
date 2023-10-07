@@ -41,6 +41,10 @@ Berikan penjelasan dan contohnya! ``( <p id="paragraf-1" class="text-paragraf"> 
 
 4. Selector class adalah kebalikan dari ID, jika ID hanya dipakai sekalai dalam setiap halaman, CLASS merupakan selector yang dapat digunakan / dipanggil secara berulang-ulang.
 
+    ini adalah contoh codenya pada file css beserta ouputnya:
+    ![img](SS/SS9.png)
+    sedangkan yang ini adalah codenya yang ada di file htmlnya:
+    ![img](SS/SS10.png)
 
 
 ## Sekian dan Terimakasih 🙏, mohon maaf bila banyak kekurangan.
